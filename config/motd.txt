@@ -1,3 +1,5 @@
 <!-- Most valid html will work in here, excluding images. -->
 
-<h1>Welcome to Oracle Station!</h1>
+<h1>Bienvenue sur ZamblaStation !</h1>
+
+<p>Le serveur SS13 Francais par des randoms, pour des randoms<p>
